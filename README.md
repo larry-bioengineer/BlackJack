@@ -10,6 +10,7 @@ This is me trying to learn new skills that is not really within the scope of wor
 # Progress
 I created the 1) UI, 2) CPU score counting, and 3) initializing new games. 
 
+<img src="https://github.com/larry4699/BlackJack/blob/master/Images/Screenshot.png" width="300">
 
 # Next Step
 1. Implement "Hit" and "Stand"
